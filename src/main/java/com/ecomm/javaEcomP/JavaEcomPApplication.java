@@ -1,13 +1,13 @@
-package com.navneet.JavaEcomm;
+package com.ecomm.javaEcomP;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaEcommApplication {
+public class JavaEcomPApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaEcommApplication.class, args);
+		SpringApplication.run(JavaEcomPApplication.class, args);
 	}
 
 }

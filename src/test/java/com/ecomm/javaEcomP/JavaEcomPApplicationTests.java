@@ -1,10 +1,10 @@
-package com.navneet.JavaEcomm;
+package com.ecomm.javaEcomP;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaEcommApplicationTests {
+class JavaEcomPApplicationTests {
 
 	@Test
 	void contextLoads() {
